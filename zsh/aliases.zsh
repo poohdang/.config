@@ -6,6 +6,7 @@ alias sr='sudo ranger'
 alias s=neofetch
 alias shutdown="shutdown -h now"
 alias sudo="sudo env PATH=$PATH"
+# alias fd=fdfind
 alias f=fzf
 alias af="alias | fzf"
 alias hf="history | fzf"
