@@ -11,5 +11,6 @@ fi
 
 autopair-init
 # source ~/.zim/modules/fzf-tab/fzf-tab.plugin.zsh
+source ~/.zim/modules/autojump/autojump.plugin.zsh
 
 
