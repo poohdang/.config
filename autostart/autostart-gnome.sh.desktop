@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/cuia/scripts/autostart-gnome.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[zh_CN]=Xmodkey-ikbc
+Name=Xmodkey-ikbc
+Comment[zh_CN]=auto change keyboard layout
+Comment=auto change keyboard layout
